@@ -59,6 +59,32 @@ h3{
     font-family: 'Redaction';
 }
 
+.menu-lista{
+    margin: 20px 0 0;
+    padding: 0;
+
+    list-style: none;
+}
+
+.menu-listal li{
+    display: inline-block;
+
+    margin-right: 8px;
+    margin-bottom: 8px;
+}
+
+.menu-link{
+    display: inline-block;
+
+    padding: 8px 12px;
+
+    background-color: white;
+    border-radius: 5px;
+
+    text-decoration: none;
+    color: #ebb95c;
+}
+
 .container-imagens{
     margin: 5px;
     
